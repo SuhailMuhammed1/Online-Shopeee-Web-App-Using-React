@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    padding: 20px;
+    color: black;
+}
+
+.header h1{
+    margin: 0;
+}
+
+.logout-btn{
+    background-color: red;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.home-path{
+    text-decoration: none;
+    color: black;
+}
+

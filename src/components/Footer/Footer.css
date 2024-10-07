@@ -1,0 +1,9 @@
+.footer{
+    left: 0;
+    bottom: 0;
+    margin-top: 100px;
+    background-color: burlywood;
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
