@@ -16,3 +16,5 @@ export async function getProductImage(id){
     const response = await axios.get(`${BASE_URL}/products/${id}/image`);
     return response.data;
 }
+
+export const GET_RESTAURANT_MENU = "https://instafood.onrender.com/api/menu?lat=12.9351929&lng=77.62448069999999&restaurantId=";
